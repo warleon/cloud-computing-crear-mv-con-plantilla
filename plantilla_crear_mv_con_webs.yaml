@@ -8,7 +8,7 @@ Parameters:
     Description: Nombre de la instancia a crear
   AMI:
     Type: String
-    Default: ami-0e84f97592c6b078b
+    Default: ami-07df604aee0fa0060
     Description: ID de AMI
 Resources:
   EC2Instance:
